@@ -4,5 +4,6 @@ ArchiView è un progetto universitario che comprende la progettazione e l'implem
 - Schemi E-R per ciascuna vista e integrazione in uno schema totale
 - Ristrutturazione dello schema e traduzione in modello relazionale
 - Implementazione in PostgreSQL: schema, trigger, viste, indici e ruoli
+
 **Tecnologie**: PostgresSQL, SQL, LaTeX
  
