@@ -7,3 +7,19 @@ ArchiView è un progetto universitario che comprende la progettazione e l'implem
 
 **Tecnologie**: PostgresSQL, SQL, LaTeX
  
+## Schemi E-R
+
+### Vista Archivista
+![Schema E-R Archivista](Schemi/archivistaFinale.png)
+
+### Vista Membro dello Staff
+![Schema E-R Membro dello Sfaff](Schemi/staffFinale.png)
+
+### Vista Utente Pubblico
+![Schema E-R Utente Pubblico](Schemi/utentePubblicoFinale.png)
+
+### Schema Totale
+![Schema E-R Utente Pubblico](Schemi/totale.png)
+
+
+ 
